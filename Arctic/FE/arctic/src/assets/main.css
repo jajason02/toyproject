@@ -1,0 +1,9 @@
+@import 'tailwindcss';
+
+@font-face {
+  font-family: 'MaruBuriLight';
+  src: url('/fonts/MaruBuri-Light.woff2') format('woff2');
+  font-style: normal;
+  font-weight: 300;
+  font-display: swap;
+}

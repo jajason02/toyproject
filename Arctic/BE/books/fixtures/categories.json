@@ -1,0 +1,72 @@
+[
+  {
+    "model": "books.genre",
+    "pk": 1,
+    "fields": {
+      "name": "소설/시/희곡"
+    }
+  },
+  {
+    "model": "books.genre",
+    "pk": 2,
+    "fields": {
+      "name": "경제/경영"
+    }
+  },
+  {
+    "model": "books.genre",
+    "pk": 3,
+    "fields": {
+      "name": "자기계발"
+    }
+  },
+  {
+    "model": "books.genre",
+    "pk": 4,
+    "fields": {
+      "name": "인문/교양"
+    }
+  },
+  {
+    "model": "books.genre",
+    "pk": 5,
+    "fields": {
+      "name": "과학"
+    }
+  },
+  {
+    "model": "books.genre",
+    "pk": 6,
+    "fields": {
+      "name": "어린이/청소년"
+    }
+  },
+  {
+    "model": "books.genre",
+    "pk": 7,
+    "fields": {
+      "name": "예술/대중문화"
+    }
+  },
+  {
+    "model": "books.genre",
+    "pk": 8,
+    "fields": {
+      "name": "취미/실용"
+    }
+  },
+  {
+    "model": "books.genre",
+    "pk": 9,
+    "fields": {
+      "name": "외국어/외국도서"
+    }
+  },
+  {
+    "model": "books.genre",
+    "pk": 10,
+    "fields": {
+      "name": "만화/라이트노벨"
+    }
+  }
+]

@@ -1,0 +1,101 @@
+{
+  "bottom_potted_fern": {
+    "prefix": "prop_bottom_potted_fern",
+    "anchor": [
+      -2.35,
+      -0.25,
+      0.74
+    ],
+    "kind": "plant"
+  },
+  "bottom_scroll_bundle": {
+    "prefix": "prop_bottom_scroll_bundle",
+    "anchor": [
+      -1.96,
+      -0.28,
+      0.74
+    ],
+    "kind": "paper scrolls"
+  },
+  "bottom_small_globe": {
+    "prefix": "prop_bottom_small_globe",
+    "anchor": [
+      -1.52,
+      -0.28,
+      0.74
+    ],
+    "kind": "globe"
+  },
+  "bottom_candle_set": {
+    "prefix": "prop_bottom_candle_set",
+    "anchor": [
+      -0.98,
+      -0.28,
+      0.74
+    ],
+    "kind": "candles"
+  },
+  "bottom_hourglass": {
+    "prefix": "prop_bottom_hourglass",
+    "anchor": [
+      -0.42,
+      -0.26,
+      0.74
+    ],
+    "kind": "hourglass"
+  },
+  "bottom_ink_quill": {
+    "prefix": "prop_bottom_ink_quill",
+    "anchor": [
+      0.02,
+      -0.3,
+      0.74
+    ],
+    "kind": "ink and quill"
+  },
+  "bottom_small_frame": {
+    "prefix": "prop_bottom_small_frame",
+    "anchor": [
+      0.46,
+      -0.32,
+      0.74
+    ],
+    "kind": "picture frame"
+  },
+  "bottom_vase_branch": {
+    "prefix": "prop_bottom_vase_branch",
+    "anchor": [
+      1.18,
+      -0.25,
+      0.74
+    ],
+    "kind": "vase with branch"
+  },
+  "bottom_lantern": {
+    "prefix": "prop_bottom_lantern",
+    "anchor": [
+      1.78,
+      -0.28,
+      0.74
+    ],
+    "kind": "lantern"
+  },
+  "bottom_ceramic_bowl": {
+    "prefix": "prop_bottom_ceramic_bowl",
+    "anchor": [
+      2.0,
+      -0.47,
+      0.74
+    ],
+    "kind": "ceramic bowl"
+  },
+  "bottom_round_clock": {
+    "prefix": "prop_bottom_round_clock",
+    "anchor": [
+      2.42,
+      -0.3,
+      0.74
+    ],
+    "kind": "round clock"
+  }
+}

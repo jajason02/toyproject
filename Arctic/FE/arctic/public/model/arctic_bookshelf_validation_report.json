@@ -1,0 +1,52 @@
+{
+  "status": "PASS",
+  "checks": {
+    "matches_uploaded_site_palette": true,
+    "four_empty_compartments_created": true,
+    "books_absent_from_scene": true,
+    "props_all_named_with_prop_prefix": true,
+    "optional_lights_named_optional_prefix": true,
+    "bottom_tier_reserved_for_props": true,
+    "props_anchors_bottom_tier_only": true,
+    "model_intentionally_taller_than_previous": true,
+    "rounded_finishing_components_present": true,
+    "clear_endcap_components_present": true
+  },
+  "notes": [
+    "No book objects are included; the bottom tier contains detachable prop_* objects only in the props version.",
+    "The dark green recessed back panels use the site header color family so the model matches the uploaded Arctic UI.",
+    "Rounded rods, caps, endcaps, and shallow crown segments were added to avoid raw sharp shelf ends."
+  ],
+  "empty_model_bounds": [
+    [
+      -3.6,
+      -0.993,
+      -0.13
+    ],
+    [
+      3.6,
+      0.71,
+      7.529904513888888
+    ]
+  ],
+  "props_model_bounds": [
+    [
+      -3.6,
+      -0.993,
+      -0.13
+    ],
+    [
+      3.6,
+      0.71,
+      7.529904513888888
+    ]
+  ],
+  "node_counts": {
+    "empty_model_nodes": 235,
+    "props_model_nodes": 324,
+    "prop_prefixed_nodes": 89,
+    "optional_light_nodes": 3
+  },
+  "suspicious_book_like_nodes": [],
+  "non_prop_extra_nodes_in_props_model": []
+}

@@ -1,0 +1,188 @@
+{
+  "coordinate_system": {
+    "x": "left/right",
+    "y": "depth; negative y is front",
+    "z": "height",
+    "unit": "model unit; keep same scale as GLB",
+    "recommended_tresjs_group_scale": "[1, 1, 1] initially; model is intentionally taller than previous version"
+  },
+  "site_design_palette_used": {
+    "background_cream": "#F4EEDF",
+    "profile_dark_green": "#163332",
+    "wood_family": "dark walnut + honey walnut + muted brass"
+  },
+  "shelf_slots": [
+    {
+      "tier": 1,
+      "name": "bottom_props_tier",
+      "purpose": "props_only_default",
+      "x_min": -2.64,
+      "x_max": 2.64,
+      "y_front": -0.52,
+      "y_back": 0.36,
+      "recommended_book_center_y": -0.26,
+      "surface_z": 0.715,
+      "recommended_book_base_z": 0.725,
+      "max_safe_book_height": 1.26,
+      "opening_z_min": 0.735,
+      "opening_z_max": 2.055,
+      "reserved_for_bottom_props_by_default": true
+    },
+    {
+      "tier": 2,
+      "name": "book_slot_tier_2",
+      "purpose": "user_books",
+      "x_min": -2.64,
+      "x_max": 2.64,
+      "y_front": -0.52,
+      "y_back": 0.36,
+      "recommended_book_center_y": -0.26,
+      "surface_z": 2.315,
+      "recommended_book_base_z": 2.325,
+      "max_safe_book_height": 1.26,
+      "opening_z_min": 2.335,
+      "opening_z_max": 3.655,
+      "reserved_for_bottom_props_by_default": false
+    },
+    {
+      "tier": 3,
+      "name": "book_slot_tier_3",
+      "purpose": "user_books",
+      "x_min": -2.64,
+      "x_max": 2.64,
+      "y_front": -0.52,
+      "y_back": 0.36,
+      "recommended_book_center_y": -0.26,
+      "surface_z": 3.915,
+      "recommended_book_base_z": 3.925,
+      "max_safe_book_height": 1.26,
+      "opening_z_min": 3.935,
+      "opening_z_max": 5.255,
+      "reserved_for_bottom_props_by_default": false
+    },
+    {
+      "tier": 4,
+      "name": "book_slot_tier_4",
+      "purpose": "user_books",
+      "x_min": -2.64,
+      "x_max": 2.64,
+      "y_front": -0.52,
+      "y_back": 0.36,
+      "recommended_book_center_y": -0.26,
+      "surface_z": 5.515,
+      "recommended_book_base_z": 5.525,
+      "max_safe_book_height": 1.28,
+      "opening_z_min": 5.535,
+      "opening_z_max": 6.875,
+      "reserved_for_bottom_props_by_default": false
+    }
+  ],
+  "bottom_props": [
+    {
+      "prefix": "prop_bottom_potted_fern",
+      "anchor": [
+        -2.35,
+        -0.25,
+        0.74
+      ],
+      "kind": "plant"
+    },
+    {
+      "prefix": "prop_bottom_scroll_bundle",
+      "anchor": [
+        -1.96,
+        -0.28,
+        0.74
+      ],
+      "kind": "paper scrolls"
+    },
+    {
+      "prefix": "prop_bottom_small_globe",
+      "anchor": [
+        -1.52,
+        -0.28,
+        0.74
+      ],
+      "kind": "globe"
+    },
+    {
+      "prefix": "prop_bottom_candle_set",
+      "anchor": [
+        -0.98,
+        -0.28,
+        0.74
+      ],
+      "kind": "candles"
+    },
+    {
+      "prefix": "prop_bottom_hourglass",
+      "anchor": [
+        -0.42,
+        -0.26,
+        0.74
+      ],
+      "kind": "hourglass"
+    },
+    {
+      "prefix": "prop_bottom_ink_quill",
+      "anchor": [
+        0.02,
+        -0.3,
+        0.74
+      ],
+      "kind": "ink and quill"
+    },
+    {
+      "prefix": "prop_bottom_small_frame",
+      "anchor": [
+        0.46,
+        -0.32,
+        0.74
+      ],
+      "kind": "picture frame"
+    },
+    {
+      "prefix": "prop_bottom_vase_branch",
+      "anchor": [
+        1.18,
+        -0.25,
+        0.74
+      ],
+      "kind": "vase with branch"
+    },
+    {
+      "prefix": "prop_bottom_lantern",
+      "anchor": [
+        1.78,
+        -0.28,
+        0.74
+      ],
+      "kind": "lantern"
+    },
+    {
+      "prefix": "prop_bottom_ceramic_bowl",
+      "anchor": [
+        2.0,
+        -0.47,
+        0.74
+      ],
+      "kind": "ceramic bowl"
+    },
+    {
+      "prefix": "prop_bottom_round_clock",
+      "anchor": [
+        2.42,
+        -0.3,
+        0.74
+      ],
+      "kind": "round clock"
+    }
+  ],
+  "suggested_book_spacing": {
+    "thin_book_width": 0.12,
+    "normal_book_width": 0.18,
+    "thick_book_width": 0.28,
+    "front_cover_y": -0.6,
+    "spine_faces_front": true
+  }
+}
