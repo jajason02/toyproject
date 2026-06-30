@@ -8,7 +8,7 @@ Total **4** &nbsp;·&nbsp; Last updated **2026-07-01**
 
 ---
 
-[algoalgo_chatbot](#algoalgo_chatbot) &nbsp;·&nbsp; [todoapi](#todoapi) &nbsp;·&nbsp; [money_hero](#money_hero) &nbsp;·&nbsp; [Arctic](#arctic)
+[algoalgo_chatbot](#algoalgo_chatbot) &nbsp;·&nbsp; [todoapi](#todoapi) &nbsp;·&nbsp; [money_hero](#money_hero) &nbsp;·&nbsp; [Arctic](#Arctic)
 
 ---
 

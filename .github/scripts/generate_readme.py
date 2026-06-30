@@ -10,8 +10,11 @@ toyproject README 자동 갱신 스크립트 (append 방식)
 """
 
 import re
+import sys
 from pathlib import Path
 from datetime import date
+
+sys.stdout.reconfigure(encoding="utf-8")
 
 ROOT = Path(__file__).parent.parent.parent
 README = ROOT / "README.md"
